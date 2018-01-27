@@ -1,0 +1,35 @@
+.one{
+    padding: 5px;
+    margin: 20px;
+    float: right;
+    height: 200px;
+    width: 200px;
+}
+.two{
+    padding: 5px;
+    margin: 20px;
+    float: right;
+    height: 200px;
+    width: 200px;
+   
+    
+}
+.three{
+    padding: 5px;
+    margin: 20px;
+    height: 200px;
+    width: 200px;
+    position: relative;
+    
+}
+.four{
+    padding: 5px;
+    border: 20px outset grey;
+    width: 1300px;
+    position: fixed;
+    bottom: 0;
+    
+}
+body{
+    height: 1300px;
+}
